@@ -1,0 +1,30 @@
+h1{
+  color: maroon;
+  text-align: center;
+  
+}
+.sidebar{
+  border: dotted red;
+  padding-left: 40px;
+  padding-right: 160px;
+  background-color: aquamarine;
+}
+
+.intro1{
+  text-align: left;
+}
+
+.intro2{
+  text-align: right;
+}
+.images{
+  float: right;
+}
+
+h3{
+  font-size: x-large;
+}
+.texts{
+  float: right;
+  font-size: 20px;
+}
