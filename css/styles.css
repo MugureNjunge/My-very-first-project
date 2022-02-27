@@ -31,6 +31,10 @@ h1{
   padding-left: 20px;
 
 }
+.intro3{
+  padding-left: 20px;
+  padding-right: 20px;
+}
 .images{
   float: right;
 }
@@ -45,5 +49,7 @@ h3{
 }
 .body{
   font-size: larger;
-
 }
+h2{
+  font-style: oblique;
+  font-size: larger;
