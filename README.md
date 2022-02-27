@@ -15,7 +15,7 @@ You will see "link is ready". Click on the link to open.
 This is a portfolio website that explains myself and my work. 
 It was made using HTML and CSS languages and it entails my journey and explains my work in the software development space.
 
-**Link to website : **
+**Link to website :**
 https://mugurenjunge.github.io/My-very-first-project/
 
 **Bugs**
