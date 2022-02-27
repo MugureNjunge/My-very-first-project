@@ -1,6 +1,7 @@
 h1{
   color: maroon;
   text-align: center;
+  background-image:url(images/elephant.jpg);
   
 }
 .sidebar{
@@ -8,17 +9,21 @@ h1{
   padding-left: 40px;
   padding-right: 160px;
   background-color: aquamarine;
+  border-radius: 20px;
 }
 
 .intro1{
   text-align: left;
   border: solid red;
+  border-radius: 20px;
+  background-color: aquamarine;
 }
 
 .intro2{
   text-align: right;
   border: solid yellowgreen;
   float: right;
+  border-radius: 20px;
 }
 .images{
   float: right;
