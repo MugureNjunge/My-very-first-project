@@ -15,28 +15,30 @@ h1{
 
 .intro1{
   text-align: left;
-  border: solid red;
+  border: solid yellowgreen;
   border-radius: 20px;
-  background-color: aquamarine;
+  float:left;
+  width:49%;
 }
 
 .intro2{
-  text-align: right;
   border: solid yellowgreen;
   float: right;
   border-radius: 20px;
+  width:49%;
+
 }
 .images{
   float: right;
 }
 
 h3{
-  font-size: x-large;
+  font-size: larger;
 }
 .texts{
   float: right;
   font-size: 20px;
 }
 .body{
-  font-size: x-large;
+  font-size: larger
 }
