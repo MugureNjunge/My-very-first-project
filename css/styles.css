@@ -12,10 +12,13 @@ h1{
 
 .intro1{
   text-align: left;
+  border: solid red;
 }
 
 .intro2{
   text-align: right;
+  border: solid yellowgreen;
+  float: right;
 }
 .images{
   float: right;
