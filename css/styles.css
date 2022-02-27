@@ -1,7 +1,7 @@
 h1{
   color: maroon;
   text-align: center;
-  background-image:url(images/elephant.jpg);
+
   
 }
 .sidebar{
@@ -10,6 +10,7 @@ h1{
   padding-right: 160px;
   background-color: aquamarine;
   border-radius: 20px;
+  text-align: center;
 }
 
 .intro1{
@@ -35,4 +36,7 @@ h3{
 .texts{
   float: right;
   font-size: 20px;
+}
+.body{
+  font-size: x-large;
 }
