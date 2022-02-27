@@ -18,14 +18,17 @@ h1{
   border: solid yellowgreen;
   border-radius: 20px;
   float:left;
-  width:49%;
+  width: 48%;
+  margin-bottom: 20px;
+  padding-left: 10px;
 }
 
 .intro2{
   border: solid yellowgreen;
   float: right;
   border-radius: 20px;
-  width:49%;
+  width: 48%;
+  padding-left: 20px;
 
 }
 .images{
@@ -36,6 +39,7 @@ h3{
   font-size: larger;
 }
 .texts{
+  text-align: left;
   float: right;
   font-size: 20px;
 }
