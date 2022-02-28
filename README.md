@@ -31,6 +31,6 @@ HTML and CSS were used to create this project. I added a media type to my HTML f
 For any corrections or improvements, changes on the code are encouraged.
 If you encounter any issue, or have feedback on the project, kindly contact the author at maureen.njunge@student.moringaschool.com.
 
-Copyright (c) {2022} **Mugure Njung'e**
+Copyright (c) {2022} **Maureen Njung'e**
 
 This project is licensed under the terms of the MIT license.
